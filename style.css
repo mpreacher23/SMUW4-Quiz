@@ -2,7 +2,9 @@
 * {
   border: 1px solid rgb(81, 255, 0);
 }
-
+.p {
+  color: blue;
+}
 .container {
   position: relative;
   top: 50px;
